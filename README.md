@@ -1,6 +1,7 @@
-### Hi there 👋
-I'm a student studying computer science at UCSC!
+### Hey I'm Charles! 👋
+I'm a student studying computer science at UCSC! 
  
+- Interests: Mobile Development, Programming Languages, Systems Programming
 - Languages: C, C++, Python
 - Looking to learn: Swift, Kotlin, Haskell
 
