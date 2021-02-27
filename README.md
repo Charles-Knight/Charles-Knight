@@ -3,7 +3,7 @@ I'm a student studying computer science at UCSC!
  
 - I'm currently working on ... lots of school work 📚📚📚
 - Interests: Mobile Development, Programming Languages, Systems Programming
-- Languages: C, C++, Python
+- Languages: Python, C, C++, Java
 - Looking to learn: Swift, Kotlin, Haskell
 
 <!--
