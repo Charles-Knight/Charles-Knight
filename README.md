@@ -1,10 +1,12 @@
 ### Hey I'm Charles! 👋
-I'm a student studying computer science at UCSC! 
+I'm a recent graduate from  UCSC! 
  
-- I'm currently working on ... lots of school work 📚📚📚
-- Interests: Mobile Development, Programming Languages, Systems Programming
-- Languages: Python, C, C++, SQL, Java
+- I'm currently working on... secret projects 🤐
+- Interests: Mobile Development, Web Development, Programming Languages, Systems Programming
+- Languages: C, C++, Python, Java
 - Looking to learn: Swift, Kotlin, Haskell
+---
+*Favorite Foods*: 🌮 🍝 🍕
 
 <!--
 **Charles-Knight/Charles-Knight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
